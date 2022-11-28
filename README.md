@@ -9,9 +9,9 @@
 
 ## Результаты работы 
 
-* **example.S** - программа на RISC-V ASM
-* **example.c** - программа на Си
-* **example.dump** - дамп-файл программы на Си
+* **find_column_with_max_sum.S** - программа на RISC-V ASM
+* **find_column_with_max_sum.c** - программа на Си
+* **find_column_with_max_sum.dump** - дамп-файл программы на Си
 
 
 ## Сборка
